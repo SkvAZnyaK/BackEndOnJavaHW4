@@ -1,0 +1,3 @@
+apiKey = c2da8f4d878d4ea9b0c3a76734c360db
+searchRecipesUrl = https://api.spoonacular.com/recipes/complexSearch
+classifyCuisineUrl = https://api.spoonacular.com/recipes/cuisine
